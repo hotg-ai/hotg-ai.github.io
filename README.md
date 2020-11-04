@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Hammer Of The Gods (HOTG)
 
-You can use the [editor on GitHub](https://github.com/hotg-ai/hotg-ai.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Making Every Edge Smarter
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Where is the world going?
+- Sensors generate more data than we capture or use
+- 5G will bring low latency and high bandwidth leading to higher density of edge devices
+- Computations will move to the edge, and federate back intelligence
+- Billions of edge devices to be launched over next few years
 
-### Markdown
+### What are we solving?
+Making it really easy to develop, deploy, and manage apps and models (tinyML apps) on constrained devices
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Products
 
-```markdown
-Syntax highlighted code block
+### Rune
+Containers for tinyML apps and models. Build tinyML apps in a reliable and consistent way
 
-# Header 1
-## Header 2
-### Header 3
+### Hammer
+Deploy and manage production tinyML apps
 
-- Bulleted
-- List
+### Anvil
+Target multiple devices and device types using configuration instead of code
 
-1. Numbered
-2. List
+### Saga
+Run and scale production systems of tinyML apps with resiliency, observability, and data management
 
-**Bold** and _Italic_ and `Code` text
+## The future
 
-[Link](url) and ![Image](src)
-```
+Build and package tinyML apps as **_Rune_** containers, to target any device environment using **_Anvil_** configurations, and deploy them using **_Hammer_** on to a meshed network of devices with **_Saga_**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Will it be open source?
+Yes!
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hotg-ai/hotg-ai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
